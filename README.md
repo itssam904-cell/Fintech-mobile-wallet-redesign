@@ -19,7 +19,7 @@ Tools
 
 Figma Prototype
 
-"View the Figma Design" (PASTE_YOUR_FIGMA_LINK_HERE)
+"View the Figma Design" (https://www.figma.com/design/xKCmKHTYFVg9grM2xaJo1a/Fintech-Wallet-App--task-1?node-id=0-1&t=UOX17aheJmw2OoPE-1)
 
 Objective
 
